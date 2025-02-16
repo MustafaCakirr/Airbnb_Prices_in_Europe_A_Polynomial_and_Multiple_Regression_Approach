@@ -67,6 +67,9 @@ Below are the **Mean Squared Error (MSE)** and **R² score** values.
 - **Berlin and Paris models had lower R² scores compared to other cities.**  
 
 ---
-
+![Image](https://github.com/user-attachments/assets/a8733871-cae0-4f90-979a-0da5b7eeaa2d)
+![Image](https://github.com/user-attachments/assets/f9164efc-9049-464e-8b16-3ca8d9c766bb)
+![Image](https://github.com/user-attachments/assets/01b35aec-0a19-4548-b888-b97e8496f9e4)
+![Image](https://github.com/user-attachments/assets/16ec8e1b-80ba-468a-bbe0-35744b63d8bb)
 
 
